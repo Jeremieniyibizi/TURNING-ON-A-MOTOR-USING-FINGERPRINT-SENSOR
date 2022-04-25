@@ -1,0 +1,2 @@
+# TURNING-ON-A-MOTOR-USING-FINGERPRINT-SENSOR
+This project “ designed and implementation of turning ON motor by using finger print sensor”. this is designed to work on switching motor for raising strong security of system and this system is reliable so, is composed by three main part that are sensing part, processing part, and indicating part. There is also Arduino contain microchip used with finger print, the system it can only be opened when an authorized user is present. 
